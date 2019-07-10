@@ -17,4 +17,5 @@ ul li p {
 
 .yellow {
   background-color: #fade85;
+  transition: background-color 1000ms;
 }
